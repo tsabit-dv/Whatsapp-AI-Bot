@@ -5,7 +5,7 @@ Bot WhatsApp cerdas menggunakan Node.js, whatsapp-web.js, dan Groq API untuk res
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.ciscoinvestments.com/assets/logos/groq-logo.png" alt="Groq Logo" height="80">
+  <img src="https://www.ciscoinvestments.com/assets/logos/groq-logo.png" alt="Groq Logo" height="60">
 </p>
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
